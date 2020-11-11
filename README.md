@@ -2,4 +2,5 @@
 - stacking axial view images of abdominal CT to 3D image
 
 - [pydicom-참고사이트](https://pydicom.github.io/pydicom/stable/auto_examples/image_processing/reslice.html#sphx-glr-auto-examples-image-processing-reslice-py)
-![<img src="/uploads/1848994ad25765da30fa8ef3684c67bc/캡처.PNG"  width="700" height="370">
+
+![3D](/blob/main/3D.jpg)
