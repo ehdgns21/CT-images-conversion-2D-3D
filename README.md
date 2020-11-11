@@ -3,4 +3,4 @@
 
 - [pydicom-참고사이트](https://pydicom.github.io/pydicom/stable/auto_examples/image_processing/reslice.html#sphx-glr-auto-examples-image-processing-reslice-py)
 
-![3D](/image/3D.jpg)
+![3D](https://github.com/YongJu114/3D_View_Generation_From_2D_Images_OPENCV/raw/master/3D.JPG width="100" height="100")
